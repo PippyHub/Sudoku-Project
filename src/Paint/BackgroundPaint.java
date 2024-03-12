@@ -3,7 +3,7 @@ package Paint;
 import static Main.GamePanel.*;
 
 import java.awt.*;
-public class Background {
+public class BackgroundPaint {
     public void paint(Graphics g) {
         Graphics2D g2d = (Graphics2D) g;
 
